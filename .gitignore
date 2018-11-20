@@ -1,4 +1,5 @@
 /node_modules
+/src/api/
 bundle.js
 npm-debug.log
 .DS_Store
